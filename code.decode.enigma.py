@@ -25,7 +25,7 @@ def rotorRotate():
     if state % (26 * 26):
         rotor3 = rotor3[1:] + rotor3[0]
 
-code = "faraz"
+code = "example" #must be in lowercase
 cipher = ""
 state = 0
 
